@@ -1,6 +1,6 @@
-# About BePresent
+# About Serenity Snap
 
-BePresent helps you track your anxiety over time so you can notice patterns and support conversations with a healthcare professional.
+Serenity Snap helps you track your anxiety over time so you can notice patterns and support conversations with a healthcare professional.
 
 ## Privacy
 
@@ -11,6 +11,6 @@ BePresent helps you track your anxiety over time so you can notice patterns and 
 
 ## Important Disclaimer
 
-BePresent is **not** a medical device and does **not** provide medical advice, diagnosis, or treatment. It is intended for self-reflection and tracking only. Always seek the advice of a qualified healthcare provider with any questions you may have regarding a mental health condition.
+Serenity Snap is **not** a medical device and does **not** provide medical advice, diagnosis, or treatment. It is intended for self-reflection and tracking only. Always seek the advice of a qualified healthcare provider with any questions you may have regarding a mental health condition.
 
 If you are in crisis, thinking about self-harm, or feel unsafe, contact your local emergency number or crisis hotline immediately. In the United States, you can reach the **988 Suicide & Crisis Lifeline** by calling or texting **988**, or visiting [https://988lifeline.org/](https://988lifeline.org/) for chat and additional accessibility options. **Do not rely on this app for emergency help.**
